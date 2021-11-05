@@ -2,28 +2,6 @@
 <Developers>Hello Everyone! Welcome to My World and Thank You Visiting</Developers> 
 ```
 
-### My Life
-```javascript
-const eat = () => {
-  console.log("EAT...");
-};
-
-const sleep = () => {
-  console.log("SLEEP...");
-}
-
-const code = () => {
-  console.log("CODE...");
-}
-
-while(true) {
-  eat();
-  sleep();
-  code();
-  // Repeat...
-}
-```
-
 ### About Me
 
 🔥 &nbsp;I am Gurlivleen Singh Kainth and a Full-Stack Developer.  
