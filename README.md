@@ -6,7 +6,7 @@
 
 🔥 &nbsp;I am Gurlivleen Singh Kainth and a Full-Stack Developer.  
 👨‍🎓 &nbsp;Studing at Guru Nanak Dev Engineering College, Ludhiana as a student of Bachlor of Technology in Information Technology.  
-💼 &nbsp;I have gained the experience under my mentor **[Ishant Sir](https://github.com/ishantk "Er. Ishant Kumar")** in technologies like **Angular**, **Java**, **NodeJS**, and **Firebase**.  
+💼 &nbsp;I have gained the experience under my mentor **[Ishant Kumar](https://github.com/ishantk "Er. Ishant Kumar")** in technologies like **Angular**, **Java**, **NodeJS**, and **Firebase**.  
 💼 &nbsp;Worked on real-time projects which are based on **Angular** and **Firebase**.
 
 ![My Skills](./profile-background.png)
