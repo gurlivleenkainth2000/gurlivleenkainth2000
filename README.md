@@ -9,7 +9,7 @@
 💼 &nbsp;I have gained the experience under my mentor **[Ishant Kumar](https://github.com/ishantk "Er. Ishant Kumar")** in technologies like **Angular**, **Java**, **NodeJS**, and **Firebase**.  
 💼 &nbsp;Worked on real-time projects which are based on **Angular** and **Firebase**.
 
-![My Skills](./profile-background.png)
+<!-- ![My Skills](./profile-background.png) -->
 
 ### My Acquire Skills
 
