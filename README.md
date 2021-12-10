@@ -1,7 +1,7 @@
 ```HTML 
 <Developers>Hello Everyone! Welcome to My World and Thank You Visiting</Developers> 
 ```
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurlivleenkainth2000&theme=vue)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurlivleenkainth2000&theme=vue) -->
 
 ### About Me
 
