@@ -10,11 +10,6 @@ I have always been fascinated by coding. This fascination has led me to gain var
 * 💼  I have gained the experience under my mentor **[Ishant Kumar](https://github.com/ishantk "Er. Ishant Kumar")** 
 <!-- * ✉️  You can contact me at [gurlivleen.kainth2000@gmail.com](mailto:gurlivleen.kainth2000@gmail.com) -->
 
-<a href="https://www.twitter.com/gurlivleen2000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/gurlivleen2000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/gurlivleenkainth2000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gurlivleenkainth2000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
