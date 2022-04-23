@@ -7,8 +7,8 @@ Full Stack Developer
 I have always been fascinated by coding. This fascination has led me to gain varied experience in some core competent programming areas like Java, front-end frameworks - angular, firebase. I have further enhanced my skills by doing some real-time projects majorly involving the use of all the web frameworks.
 
 * 🌍  I'm based in Ludhiana
-* 🖥️  See my portfolio at [My Portfolio](http://gurlivleen-singh-kainth.web.app)
-* ✉️  You can contact me at [gurlivleen.kainth2000@gmail.com](mailto:gurlivleen.kainth2000@gmail.com)
+* 💼  I have gained the experience under my mentor **[Ishant Kumar](https://github.com/ishantk "Er. Ishant Kumar")** 
+<!-- * ✉️  You can contact me at [gurlivleen.kainth2000@gmail.com](mailto:gurlivleen.kainth2000@gmail.com) -->
 
 <a href="https://www.twitter.com/gurlivleen2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/gurlivleen2000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
