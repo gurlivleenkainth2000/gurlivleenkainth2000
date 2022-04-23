@@ -1,25 +1,50 @@
-```HTML 
-<Developers>Hello Everyone! Welcome to My World and Thank You Visiting</Developers> 
-```
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurlivleenkainth2000&theme=vue) -->
+Hi 👋 My name is Gurlivleen Singh Kainth
+========================================
 
-### About Me
+Full Stack Developer
+--------------------
 
-🔥 &nbsp;I am Gurlivleen Singh Kainth and a Full-Stack Developer.  
-👨‍🎓 &nbsp;Studing at Guru Nanak Dev Engineering College, Ludhiana as a student of Bachlor of Technology in Information Technology.  
-💼 &nbsp;I have gained the experience under my mentor **[Ishant Kumar](https://github.com/ishantk "Er. Ishant Kumar")** in technologies like **Angular**, **Java**, **NodeJS**, and **Firebase**.  
-💼 &nbsp;Worked on real-time projects which are based on **Angular** and **Firebase**.
+I have always been fascinated by coding. This fascination has led me to gain varied experience in some core competent programming areas like Java, front-end frameworks - angular, firebase. I have further enhanced my skills by doing some real-time projects majorly involving the use of all the web frameworks.
 
-<!-- ![My Skills](./profile-background.png) -->
+* 🌍  I'm based in Ludhiana
+* 🖥️  See my portfolio at [My Portfolio](http://gurlivleen-singh-kainth.web.app)
+* ✉️  You can contact me at [gurlivleen.kainth2000@gmail.com](mailto:gurlivleen.kainth2000@gmail.com)
 
-### My Acquire Skills
+<a href="https://www.twitter.com/gurlivleen2000" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/gurlivleen2000?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/gurlivleenkainth2000" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/gurlivleenkainth2000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-Name | Description 
-:-----------:|:------------
-[![Angular](https://raw.githubusercontent.com/gurlivleenkainth2000/gurlivleenkainth2000/main/tehnologies-images/angular.png)](https://angular.io/docs)  Angular | Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS. Angular is used as the frontend of the MEAN stack, consisting of MongoDB database, Express.js web application server framework, Angular itself (or AngularJS), and Node.js server runtime environment.
-[![Flutter](https://raw.githubusercontent.com/gurlivleenkainth2000/gurlivleenkainth2000/main/tehnologies-images/flutter.png)](https://flutter.dev/docs) Flutter | Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase.
-[![Firebase](https://raw.githubusercontent.com/gurlivleenkainth2000/gurlivleenkainth2000/main/tehnologies-images/firebase.png)](https://firebase.google.com/docs) Firebase | Firebase is a platform developed by Google for creating mobile and web applications. It was originally an independent company founded in 2011. In 2014, Google acquired the platform[1] and it is now their flagship offering for app development.
+### Skills
 
-### Connect With Me
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+</p>
 
-[![Linkedin](./social-icons/linkedin.svg)](https://www.linkedin.com/in/gurlivleen2000/) &nbsp; [![Twitter](social-icons/twitter.svg)](https://twitter.com/gurlivleen2000) &nbsp; [![Gmail](social-icons/gmail.svg)](mailto:gurlivleen.kainth2000@gmail.com) &nbsp; [![Instagram](social-icons/instagram.svg)](https://www.instagram.com/gurlivleen2000/)
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/gurlivleenkainth2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gurlivleen2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@gurlivleen.kainth2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gurlivleen2000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/gurlivleenkainth2000"><img src="https://github-readme-stats.vercel.app/api?username=gurlivleenkainth2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gurlivleenkainth2000's GitHub stats" /></a>
+
+<a href="http://www.github.com/gurlivleenkainth2000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gurlivleenkainth2000&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/gurlivleenkainth2000"><img src="https://activity-graph.herokuapp.com/graph?username=gurlivleenkainth2000&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/gurlivleenkainth2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurlivleenkainth2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
